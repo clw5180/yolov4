@@ -1,3 +1,16 @@
+# custom
+*.pt
+*.pth
+*.weights
+*.txt
+runs
+weights
+*.jpg
+*.bmp
+*.png
+*.txt
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
